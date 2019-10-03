@@ -12,8 +12,4 @@ The third implemntation is a interative implementation of the second approach, i
 
 A sample input and output are as follows:
 
-![alt text](https://github.com/nitinchakravarthy/Prokudin-Gorsky-Image-Colorization/blob/master/Images/cathedral.jpg)
-
-
-
-![alt text](https://github.com/nitinchakravarthy/Prokudin-Gorsky-Image-Colorization/blob/master/Results/cathedral.jpg)
+![alt text](https://github.com/nitinchakravarthy/Prokudin-Gorsky-Image-Colorization/blob/master/Images/cathedral.jpg)  ![alt text](https://github.com/nitinchakravarthy/Prokudin-Gorsky-Image-Colorization/blob/master/Results/cathedral.jpg)
